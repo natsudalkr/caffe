@@ -11,7 +11,7 @@ nose>=1.3.0
 pandas>=0.12.0
 python-dateutil>=1.4,<2
 protobuf>=2.5.0
-python3-gflags
+python-gflags
 pyyaml>=3.10
 Pillow>=2.3.0
 six>=1.1.0
